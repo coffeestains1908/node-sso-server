@@ -41,12 +41,12 @@ Used to verify request header authorization header
 #### Success Response
 <b>Code</b> `200 OK`
 
-<b>Content Example</b>
+<b>Body Example</b>
 ```
 {
-  "username": "<username>",
-  "password": "<password>",
-  "confirmPassword": "<password>"
+  "username": "<username>", # min length 6
+  "password": "<password>", # min length 6
+  "confirmPassword": "<password>" # min length 6
 }
 ```
 
