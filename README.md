@@ -18,7 +18,7 @@ Used to verify request header authorization header.
 
 #### Error Response
 
-<b>Code</b> `40 Forbidden Access`
+<b>Code</b> `403 Forbidden Access`
 
 
 ## Authenticate
