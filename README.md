@@ -16,7 +16,6 @@ Used to verify request header authorization header.
 #### Success Response
 <b>Code</b> `200 OK`
 
-<hr>
 ## Authenticate
 Used to authenticate user, compare username and password against database.
 
